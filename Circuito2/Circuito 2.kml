@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Circuito 2.kmz</name>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_red-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_red-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_red-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Circuito 2</name>
+		<open>1</open>
+		<Placemark>
+			<name>Caminho de teste 2</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-46.46874146539604,-23.53345388126025,0 -46.46887495564099,-23.53369609931131,0 -46.46893643271311,-23.53385622527444,0 -46.46907383140536,-23.53404303239447,0 -46.46917959899561,-23.53422670522554,0 -46.4691929489265,-23.53424637996701,0 -46.46932076906042,-23.53436147077779,0 -46.46958164070235,-23.53457077779104,0 -46.46981157652487,-23.53466579414204,0 -46.47000884563478,-23.5347523314216,0 -46.47021730411656,-23.53479514953671,0 -46.47045995765323,-23.53487961332391,0 -46.47065841542738,-23.53498406309481,0 -46.47084039541777,-23.53502965816449,0 -46.47110071832239,-23.53511129168146,0 -46.4713089200847,-23.53517065823072,0 -46.47156276708497,-23.535286378809,0 -46.47178798293305,-23.53530484423865,0 -46.47206120230705,-23.53528446092592,0 -46.47207952886445,-23.53528499300738,0 -46.47239801571579,-23.5352352522,0 -46.47259098842598,-23.53522586034221,0 -46.47265179328544,-23.53515739615257,0 -46.47262152906235,-23.53505715676458,0 -46.47251548295735,-23.53497194583992,0 -46.47233557815401,-23.53495522087877,0 -46.47198972907157,-23.53497617733,0 -46.47167574273438,-23.53491512029698,0 -46.47140296360517,-23.5348325867382,0 -46.47117184739366,-23.53474979703279,0 -46.47115584968359,-23.53474445966835,0 -46.4709806155392,-23.53466255961184,0 -46.47079078168799,-23.53458703343571,0 -46.47053715065815,-23.53452899813836,0 -46.47023032366576,-23.53443259941782,0 -46.46995810804643,-23.53429153727667,0 -46.46955135595307,-23.53410919738161,0 -46.46930192157392,-23.53388528932351,0 -46.46932555838431,-23.53373777345845,0 -46.46922105315041,-23.53361065176488,0 -46.4691496625186,-23.53347346274433,0 -46.4690821399198,-23.53340100892717,0 -46.46898327557063,-23.53340250644924,0 -46.46887116382516,-23.53343915371676,0 -46.46878696090525,-23.5334266720641,0 -46.46874146539604,-23.53345388126025,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Lombada2-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180050.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.46944044444444</longitude>
+				<latitude>-23.5344715</latitude>
+				<altitude>0</altitude>
+				<heading>-27.17278289672763</heading>
+				<tilt>42.6798065311967</tilt>
+				<range>441.8808620922</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.46944044444444,-23.5344715,0.1630004844370353</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada1-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_175941.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.46888730555555</longitude>
+				<latitude>-23.53393744444445</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001751376649172094</heading>
+				<tilt>25.70325125947015</tilt>
+				<range>392.5770930438478</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.46888730555555,-23.53393744444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada3-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180238.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.47086333333333</longitude>
+				<latitude>-23.53497502777778</latitude>
+				<altitude>0</altitude>
+				<heading>-27.171993095977</heading>
+				<tilt>33.15483943330298</tilt>
+				<range>329.8048066350925</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.47086333333333,-23.53497502777778,0.4183602143504563</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada4- C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180408.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.47168723976492</longitude>
+				<latitude>-23.53517607338048</latitude>
+				<altitude>0</altitude>
+				<heading>-27.1715187763464</heading>
+				<tilt>30.65222213336605</tilt>
+				<range>338.6338971638986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.47207918732628,-23.53526232590642,0.4588796215233195</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buraco1-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180450.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.47214153934863</longitude>
+				<latitude>-23.5348162733298</latitude>
+				<altitude>0</altitude>
+				<heading>-27.17141140795014</heading>
+				<tilt>26.50023792926217</tilt>
+				<range>217.4999913463578</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_red-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.47233358708164,-23.53501445036927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada5-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180523.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.47200391666667</longitude>
+				<latitude>-23.53503036111111</latitude>
+				<altitude>0</altitude>
+				<heading>-27.17155663474858</heading>
+				<tilt>30.00054204299524</tilt>
+				<range>121.071325695432</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.47200391666667,-23.53503036111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada6-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180617.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.47120283333332</longitude>
+				<latitude>-23.53500936111112</latitude>
+				<altitude>0</altitude>
+				<heading>-27.17188775491826</heading>
+				<tilt>30.00123666853703</tilt>
+				<range>275.3450382252622</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.47134687711911,-23.53485869426881,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada7-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180806.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.46992872222222</longitude>
+				<latitude>-23.53430936111111</latitude>
+				<altitude>0</altitude>
+				<heading>-13.66546111224205</heading>
+				<tilt>36.78900363140605</tilt>
+				<range>324.0179404117417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.46992872222222,-23.53430936111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lombada8-C2</name>
+			<description><![CDATA[<img style="max-width:500px;" src="20210830_180923.jpg">]]></description>
+			<LookAt>
+				<longitude>-46.46917341666667</longitude>
+				<latitude>-23.53367422222222</latitude>
+				<altitude>0</altitude>
+				<heading>-13.66548792175054</heading>
+				<tilt>32.78413868806658</tilt>
+				<range>461.9979215876649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-46.46917341666667,-23.53367422222222,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
